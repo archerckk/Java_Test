@@ -1,6 +1,12 @@
 public class Test {
-    public static void main(String[]args){
-        int string1=123;
-        System.out.println(string1);
+    public static void main(String[]args) {
+        int num = 11;
+        if (num%2==0) {
+            System.out.println("num is oushu");
+        }
+        else {
+            System.out.println("num is jishu");
+        }
+
+        }
     }
-}
