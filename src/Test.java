@@ -5,7 +5,7 @@ public class Test {
             System.out.println("num is oushu");
         }
         else {
-            System.out.println("num is jishu");
+            System.out.println("num is jishu11111");
         }
 
         }
